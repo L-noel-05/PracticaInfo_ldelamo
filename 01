@@ -1,0 +1,21 @@
+<meta charset="UTF-16" />
+<title></title>
+<style type="text/css">body {background-color: blue;
+	 }
+    h1 {color: #ffffff;
+	font-family: arial;
+	font-size: 700%;	
+	}
+</style>
+<script>
+        alert('Benvingut a la meva pàgina!');
+</script>
+<h1 style="text-align: center;"><strong>La meva p&agrave;gina web</strong></h1>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;Aquesta &eacute;s la primera p&agrave;gina web que faig amb codi HTML. He cambiat el color de fons de blau a lila</p>
+
+ <style>
+body {background-color: purple}
+</style>
